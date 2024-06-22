@@ -13,7 +13,7 @@ body, html {
 
 #buyLista {
 	width: 100vw;
-	height: 70px;
+	height: 100px;
 	background: rgba(0, 0, 0, 0.7);
 	position: fixed;
 	bottom: 0;
@@ -24,7 +24,7 @@ body, html {
 
 a {
 	color: white;
-	font-size: 2em;
+	font-size: 4em;
 	text-decoration: none;
 	font-family: sans-serif;
 	font-weight: 700;
