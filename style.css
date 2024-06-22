@@ -4,5 +4,13 @@ body, html {
 }
 
 #topBackground {
-  background-image: url("photo-output.jpeg");
+	min-width: 100vw;
+	max-width: 1920px;
+	height: 600px;
+	background-image: url("photo-output.jpeg");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+  margin: 0;
+  padding: 0;
 }
